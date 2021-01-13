@@ -1,4 +1,6 @@
 # Weather4U
+![logo](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Logo_Weather4U.png)
+</br>
 
 ### Short Description
 Weather4U is an application to show the current weather in the locations selected by the user. </br>
@@ -15,15 +17,15 @@ If you enter a wrong city name, you will receive a message that the weather cann
 
 ### Screenshots
 
-![screenshot](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(70).png)
+![screenshot1](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(70).png)
 </br>
 Weather display example
 </br></br></br>
-![screenshot](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(69).png)
+![screenshot2](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(69).png)
 </br>
 Weather display example
 </br></br></br>
-![screenshot](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(68).png)
+![screenshot3](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(68).png)
 </br>
 Error - Cannot find weather
 </br>
