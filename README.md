@@ -1,5 +1,4 @@
-# Weather4U
-![logo](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Logo_Weather4U.png)
+# ![logo](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Logo_Weather4U.png)
 </br>
 
 ### Short Description
