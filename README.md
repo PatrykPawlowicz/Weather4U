@@ -8,4 +8,5 @@ The Weather 4U app shows the temperature in more detail (up to two decimal place
 Application written in java using Android Studio. Weather data is taken from https://openweathermap.org/ API.
 
 ### Screenshots
+![app](Zrzut ekranu (68).png)
 
