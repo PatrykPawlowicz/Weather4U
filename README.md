@@ -10,8 +10,10 @@ Application written in java using Android Studio. Weather data is taken from htt
 ### Screenshots
 
 ![screenshot](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(69).png)
+Weather display example
 </br>
-![screenshot](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(68).png)\
+![screenshot](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(70).png)
+Weather display example
 </br>
 ![screenshot](https://github.com/PatrykPawlowicz/Weather4U/blob/master/Zrzut%20ekranu%20(68).png)
-
+Error - Cannot find weather
